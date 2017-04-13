@@ -1,5 +1,5 @@
 
-Thymeleaf Examples: Spring Security
+Spring Security : Spring Security
 -----------------------------------
  
  To learn more:
@@ -28,4 +28,4 @@ Building
 
  Once started, the application should be available at:
  
-     http://localhost:8080/springsecurity
+     http://localhost:8080/spring-security-html
